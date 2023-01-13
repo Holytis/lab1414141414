@@ -21,3 +21,13 @@ int main()
     }while(s != 0 || x != 0 || y != 0);
     return 0;
 }
+
+void updateImage(bool [][M],int x , int y , int z)
+{
+
+}
+
+void showImage(const bool im[N][M])
+{
+    cout << "------------------------------------------------------------------------"
+}
